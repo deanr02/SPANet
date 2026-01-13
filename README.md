@@ -8,6 +8,10 @@ Here are additional instructions specific to using `SPANet` with ATLAS 4Tops dat
 Created by Dean Reiter, Cornell University '25. 
 Contact: dar333@cornell.edu
 
+### Feb 2025 Update
+
+For continued work on this library, see the fork: https://github.com/mjg-phys/SPANet.
+
 
 ## Introduction
 
